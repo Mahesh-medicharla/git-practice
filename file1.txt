@@ -1,1 +1,1 @@
-"Hi Aditya today we completed topic (Branches)." 
+"To know the current Branch we use command git Branch" 
