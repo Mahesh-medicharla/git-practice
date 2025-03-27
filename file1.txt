@@ -1,1 +1,4 @@
-"Today file" 
+"To know the current Branch we use command git Branch" 
+"Current branch shows with * symbol"
+"To delete the file we use command - git rm filename "
+"27-03-2025"
